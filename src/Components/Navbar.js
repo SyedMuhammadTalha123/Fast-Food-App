@@ -24,9 +24,7 @@ class NavBar extends React.Component {
   toggle = () => this.setState({ isOpen: !this.state.isOpen });
 
   render() {
-    return (
-
-      
+    return (      
       <div>
          <Navbar collapseOnSelect fixed="top"expand="lg" variant="dark" style={{ backgroundColor: "black" }}>
           <Navbar.Brand href="/">
