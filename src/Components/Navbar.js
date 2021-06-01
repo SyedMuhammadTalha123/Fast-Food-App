@@ -25,6 +25,7 @@ class NavBar extends React.Component {
 
   render() {
     return (      
+      
       <div>
          <Navbar collapseOnSelect fixed="top"expand="lg" variant="dark" style={{ backgroundColor: "black" }}>
           <Navbar.Brand href="/">
