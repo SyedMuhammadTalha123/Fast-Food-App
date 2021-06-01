@@ -1,0 +1,224 @@
+{
+  "login": [
+    {
+      "apiName": "Talha",
+      "apiPassword": "abc@123"
+    }
+  ],
+
+
+  
+  "reservations": [
+    {
+      "id": 0,
+      "fullname": "syed",
+      "email": "talha@gail",
+      "phone": "i3434",
+      "guests": "3",
+      "date": "423",
+      "time": "3243"
+    },
+    {
+      "id": 0.9881879186538263,
+      "fullname": "syed muhammad talha",
+      "email": "talhaayub009@gmail.com",
+      "phone": "3125060398",
+      "guests": "0",
+      "date": "2021-05-06",
+      "time": "13:24"
+    },
+    {
+      "id": "talhaayub009@gmail.com",
+      "fullname": "syed muhammad talha",
+      "email": "talhaayub009@gmail.com",
+      "phone": "3125060398",
+      "guests": "2",
+      "date": "2021-05-06",
+      "time": "13:25"
+    },
+    {
+      "id": 1.9881879186538263
+    },
+    {
+      "id": 2.9881879186538263
+    },
+    {
+      "id": 0.640690398088344,
+      "fullname": "syed muhammad talha",
+      "email": "talhaayub009@gmail.com",
+      "phone": "3125060398",
+      "guests": 5,
+      "date": "2021-05-24",
+      "time": "12"
+    },
+    {
+      "id": 0.09196928907238289,
+      "fullname": "syed muhammad talha",
+      "email": "talhaayub009@gmail.com",
+      "phone": "3125060398",
+      "guests": 2,
+      "date": "2021-05-24",
+      "time": "12"
+    }
+  ],
+  "homePageData": [
+    {
+      "heading": "Dine with Family",
+      "paragraph": " When you dine with us, you dine with family. The recipes that we  share with you have been passed down to us, and we are excited tobe able to share them with you. Our ingredients are fresh and  healthy, just like we would choose in our own home. Welcome! Make yourself at home!",
+      "image": "https://img1.wsimg.com/isteam/ip/1ee57684-415b-4ddf-a940-833a44b5a098/bruna-branco-1270470-unsplash.jpg/:/cr=t:56.21%25,l:0%25,w:100%25,h:33.32%25/rs=w:900,h:450,cg:true",
+      "price": "$12"
+    },
+    {
+      "heading": "Special Events",
+      "paragraph": " Our staff works to make every visit special, but some events call for just a little more sparkle. Do you have a special event coming up? Contact us and let us know. From private celebration rooms to special menus, we've got you covered.",
+      "image": "https://img1.wsimg.com/isteam/ip/1ee57684-415b-4ddf-a940-833a44b5a098/cole-patrick-1256956-unsplash.jpg/:/cr=t:46.01%25,l:0%25,w:100%25,h:33.56%25/rs=w:900,h:450,cg:true",
+      "price": "$12"
+    },
+    {
+      "heading": "For Users",
+      "paragraph": "Are you busy? Have no time for cooking? Or Just wish to have meal from your Favorite place. Yum Foody is now available in your city. We are offering fast, easy and a new way of browsing your favorite restaurants and eateries on your laptop or mobile. Whether it is breakfast on the go, lunch at office, dinner in bed or a mid-night snack, call, now you can get your favorite meals pretty much wherever you are ;thanks to the free easy-to-use yum foody Delivery & Takeout App with on-line and cash options.",
+      "image": "https://img1.wsimg.com/isteam/ip/1ee57684-415b-4ddf-a940-833a44b5a098/stil-336188-unsplash.jpg/:/rs=w:555,m,cg:true",
+      "price": "$12"
+    },
+    {
+      "heading": "For Restaurants",
+      "paragraph": " If you really love to make good foody, you need to reach out to more people who love your food? Yum foody is a a great new platform for new to serve food online without worry. We are here to market and manage service and meals online. All you need is to keep up with meals online. All you need is to keep up with the great taste you have always offered.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiPRaMF3dIGoJevchG4yLxTyS0Z1toQS2Cw&usqp=CAU",
+      "price": "$12"
+    }
+  ],
+  "media": [
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eqVhvgeaKKjxnObKeI5MT95RwfZ90h96glj3GSBBTVRxjbiXLDt9k9lPAXDOeNZzYRI&usqp=CAU",
+      "head": "Pineapple, mushrooms, black olives, tomato saucee, chicken Ranch,Mashrooms",
+      "price": "$12"
+    },
+    {
+      "img": "http://trumpwallpapers.com/wp-content/uploads/Pizza-Wallpaper-23-1920-x-1280.jpg",
+      "head": "Fresh tomatoes, garlic, red onion, cheese, minced meat, dandelion, olives ",
+      "price": "$12"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjGItW78swa05VmIpHWm9Q1_ihyaQhtPRig&usqp=CAU",
+      "head": "Olive, meta, squid, shrimps, fresh mushrooms, fresh red tomatoes, cheese ",
+      "price": "$12"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7vlyS3iAURZf2hg_ZG-bNPBYg1fJHTGqKQ&usqp=CAU",
+      "head": "Calzone Cup fresh ricotta, parmesan, chopped basil, pepper, tomato sauce, fresh mozzarella",
+      "price": "$12"
+    },
+    {
+      "img": "http://trumpwallpapers.com/wp-content/uploads/Pizza-Wallpaper-34-1920-x-1080.jpg",
+      "head": " Classic Pepperoni, cheese, black olives, tomatoe sauce, mushrooms, meat, onion, salad ",
+      "price": "$12"
+    },
+    {
+      "img": "https://wallpaperaccess.com/full/866670.jpg",
+      "head": "Tomato, oregano, garlic, extra virgin olive oil, pepperoni, cheese, red onion, sauce, mushrooms",
+      "price": "$12"
+    },
+    {
+      "img": "https://wallpaperaccess.com/full/866645.jpg",
+      "head": "Fresh mushrooms, fresh green bell peppers, tomatoes, black olives, meat, sausages ",
+      "price": "$16"
+    },
+    {
+      "img": "https://demo.hasthemes.com/restoral/images/member-profile-4-1200x800_original.jpg",
+      "head": "Hot Wings + Fries Bucket. Consisting of a bucket of hot wings tossed in BBQ sauce paired with a scrumptious bucke ",
+      "price": "$14"
+    },
+    {
+      "img": "https://i0.wp.com/rancherscafe.com/wp-content/uploads/2019/12/CrunchComp-3.png?w=300&ssl=1",
+      "head": " A single fillet topped with capsicum, onions, tomatoes and our signature spicy ",
+      "price": "$15"
+    },
+    {
+      "img": "https://i2.wp.com/rancherscafe.com/wp-content/uploads/2019/12/Buffalo-BillComp-1.png?w=300&ssl=1",
+      "head": "A chicken patty burger topped with cheese, jalapeños and our special sauce",
+      "price": "$12"
+    },
+    {
+      "img": "https://i2.wp.com/rancherscafe.com/wp-content/uploads/2019/12/Cowboy-burgerComp-1.png?w=300&ssl=1",
+      "head": "Krunch burger with 1 piece of hot & crispy chicken and regular drink",
+      "price": "$10"
+    },
+    {
+      "img": "https://i1.wp.com/rancherscafe.com/wp-content/uploads/2019/12/Big-benComp-1.png?w=300&ssl=1",
+      "head": "Fresh mushrooms, fresh green bell peppers, tomatoes, black olives, meat, sausages ",
+      "price": "$12"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "OPTP",
+      "rating": 3.4,
+      "email": "OPTP@gmail.com",
+      "address": "Centauras islamabad"
+    },
+    {
+      "id": 2,
+      "name": "Rahat Bakers",
+      "rating": 3.4,
+      "email": "Talhaayub009@gmail.com",
+      "address": "G-16 markaz islamabad"
+    },
+    {
+      "name": "PIZZANO",
+      "email": "PIZZANO008392@gmail.com",
+      "rating": 3.4,
+      "address": "G-11 markaz islamabad",
+      "id": 3
+    },
+    {
+      "name": "Rahat Bakers",
+      "email": "Talhaayub009@gmail.com",
+      "rating": 3.4,
+      "address": "G-14 markaz islamabad",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Rahat Bakers",
+      "rating": 3.4,
+      "email": "Talhaayub009@gmail.com",
+      "address": "G-16 markaz islamabad"
+    },
+    {
+      "name": "FRESCO",
+      "email": "FRESCO@gmail.com",
+      "rating": "4",
+      "address": "F-10 markaz islamabad",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "KFC",
+      "email": "KFC@gmail.com",
+      "rating": "4",
+      "address": "F-10 markaz islamabad"
+    },
+    {
+      "name": "Hardees",
+      "email": "Hardees@gmail.com",
+      "rating": "3.5",
+      "address": "G-9 ISLAMABAD",
+      "id": 8
+    },
+    {
+      "name": "ZINGYZEST",
+      "email": "ZINGYZEST@gmail.com",
+      "rating": "4.5",
+      "address": "G-11 MARKAZ ISLAMABAD",
+      "id": 9
+    },
+    {
+      "name": "BUTT KARAHI",
+      "email": "BUTT KARAHI@GMAIL.COM",
+      "rating": "4.6",
+      "address": "F-8 MARKAZ ISLAMABAD",
+      "id": 10
+    }
+  ]
+}
